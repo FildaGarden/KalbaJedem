@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KalbaJedem</string>
+    <string name="start">Start</string>
+    <string name="kalba_jedem">KALBA JEDEM</string>
+    <string name="nikdy_jsem">Nikdy Jsem</string>
+    <string name="dare_or_drink">Dare or Drink</string>
+    <string name="would_you_rather">Would you rather</string>
+
+
+
+
+    <!--Nikdy jsem/Never have I ever lines-->
+    <string name="line01">Neskipnul školu kvuli kocovině</string>
+    <string name="line02">Nepřišel z party domů až za světla</string>
+
+</resources>
