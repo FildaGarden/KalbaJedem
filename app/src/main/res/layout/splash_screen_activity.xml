@@ -4,8 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".BeforeMenuActivity"
-    android:background="@color/white">
+    tools:context=".SplashScreenActivity"
+    android:background="#3F233E"
+    >
 
     <ImageView
         android:id="@+id/splashLogo"
@@ -16,7 +17,8 @@
         app:layout_constraintHorizontal_bias="0.499"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/logo"
-        android:scaleX="1.5"
-        android:scaleY="1.5"/>
+        app:srcCompat="@drawable/xd"
+        android:scaleX="0.70"
+        android:scaleY="0.70"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
